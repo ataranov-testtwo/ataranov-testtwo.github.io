@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "net.intermedia.newmeeting",
+    "sha256_cert_fingerprints":
+    ["16:E2:28:DA:DE:0A:02:A5:5F:A3:2D:F9:80:D5:3B:B0:77:32:B8:75:89:B0:1F:EF:32:4E:A8:0B:2C:CD:2D:0A"]
+  }
+}]
